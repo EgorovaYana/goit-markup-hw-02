@@ -54,7 +54,7 @@ body {
   text-transform: uppercase;
   letter-spacing: 0.03em;
 }
-.logo span {
+.logo-span {
   color: var(--first-brand-color);
 }
 .nav-menu-link {
@@ -119,7 +119,7 @@ body {
 .footer {
   background-color: var(--first-brand-color);
 }
-.logo .footer-logo-span {
+.footer-logo-span {
   color: var(--third-brand-color);
 }
 .footer-text {
